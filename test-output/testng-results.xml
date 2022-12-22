@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-16T19:37:58 IST" name="Default suite" finished-at="2022-12-16T19:38:09 IST" duration-ms="10684">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T19:37:58 IST" name="Default test" finished-at="2022-12-16T19:38:09 IST" duration-ms="10684">
+      <class name="TestCases.SignUpTestCase">
+        <test-method signature="verifySignup()[pri:0, instance:TestCases.SignUpTestCase@1b1426f4]" started-at="2022-12-16T19:37:58 IST" name="verifySignup" finished-at="2022-12-16T19:38:09 IST" duration-ms="10636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignup -->
+      </class> <!-- TestCases.SignUpTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
